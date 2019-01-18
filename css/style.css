@@ -17,3 +17,10 @@ background:#641DBD;
   position: relative
   display:inline-block;
 }
+.menu > li > a {
+display: block;
+padding: 15px 20px;
+color: blueviolet
+font-family : monospace;
+text-decoration : none;
+}
