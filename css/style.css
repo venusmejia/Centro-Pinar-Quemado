@@ -12,15 +12,15 @@ background:#641DBD;
 };
 .navegacion ul{
   list-style: none;
-}
+};
 .menu>li{
   position: relative
   display:inline-block;
-}
+};
 .menu > li > a {
 display: block;
 padding: 15px 20px;
 color: blueviolet
-font-family : monospace;
-text-decoration : none;
-}
+font-family: monospace;
+text-decoration: none;
+};
