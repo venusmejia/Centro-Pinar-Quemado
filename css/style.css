@@ -11,7 +11,7 @@ body {
 .navegacion{
           width: 1000px;
           margin: 30px auto;
-          background:#641DBD;
+          background:#fff;
 }
 .navegacion ul{
   list-style: none;
