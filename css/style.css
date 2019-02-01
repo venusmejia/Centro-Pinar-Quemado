@@ -29,7 +29,7 @@ body {
 .menu > li > a {
 display: block;
 padding: 15px 20px;
-color: blueviolet;
+color: rgb(15, 15, 15);
 font-family: 'open sans';
 text-decoration: none;
 }
