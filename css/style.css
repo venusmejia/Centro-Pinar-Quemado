@@ -5,14 +5,18 @@
   -moz-box-sizing:border-box;
  box-sizing:border-box;
 }
+h1 {
+  font-family:fantasy;
+  background: rgb(250, 0, 83);
+}
 
 body {
   background:#76D7C4; 
 }
 
-.navegacion{
+.menu{
+ margin: 30px auto ;
  width: 1000px;
- margin: 30px auto;
  background: #fff;
 }
 .navegacion ul{
