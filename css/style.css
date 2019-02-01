@@ -40,7 +40,10 @@ transition: all .3s;
   position: absolute;
   background: #333333;
   width: 120%;
- display: none;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 1.5s;
+  
 }
 
 .submenu li a{
@@ -52,6 +55,6 @@ transition: all .3s;
 
 }
 .menu li:hover .submenu{
-display: block;
-
+visibility: visible;
+opacity: 1;
 }
